@@ -1,4 +1,4 @@
-public class LargeSmallElemets {
+public class LargestElement2b {
     public static void main(String[] args) {
         int ar1[]={4,8,78,96,36,42,420};
         System.out.println("array 1 is : ");
@@ -15,3 +15,4 @@ public class LargeSmallElemets {
     
 }  
 }
+

@@ -1,0 +1,50 @@
+                                                 (1.c)
+
+
+
+
+public class Test {
+    public static void main(String[] args) {
+        Test p=new Test();
+        p.start();
+        
+    }
+    void start(){
+        boolean b1= false;
+        boolean b2= fix(b1);
+        System.out.println(b1+" "+b2);
+    }
+    boolean fix(boolean b1){
+        b1 = true;
+        return b1;
+    }
+
+    
+}
+                                            Output: false true
+
+                                                  (3.b)
+
+public class Myclass {
+    static int x=5;
+    static void printX(){
+        System.out.println("x= "+x);
+    }
+    void modify(){
+        x++;
+    }
+ public static void main(String[] args) {
+    Myclass.printX();
+    Myclass obj=new Myclass();
+    obj.modify();
+    Myclass.printX();
+ }   
+}
+ 
+                                             Output: x=5
+                                                     x=6
+
+
+
+ 
+                                                

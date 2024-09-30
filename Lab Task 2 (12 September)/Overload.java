@@ -1,4 +1,4 @@
-package com.myprojects;
+
 class Test{
     int a,b,c,id;
     String name, city;
