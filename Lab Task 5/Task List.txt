@@ -1,0 +1,21 @@
+ -------------------------------------------------------Lab Work--------------------------------------------
+
+
+1. Write a program to join two strings in String class using concat() and show the output?
+2. Write a program to join two strings in String class using + operator and show the output?
+3. Write a program to check the contents of two strings as equal or not using equals() and
+Boolean value?
+4. Write a program to check if two strings variables refer to the same string object using ==
+operator and Boolean value?
+5. Write a program to compare two strings using compareTo() and print the output?
+6. Write a program to find a character in a string at a particular index value using charAt()?
+7. Write a program to find the index value of ‘e’ in string “HelloPMeC” using indexof()?
+8. Write a program to find the index value of ‘e’ in string “HelloPMeC” using indexof() if
+searching starts from index = 2?
+9. Write a program to find the index value of a substring “loP” in string “HelloPMeC” using
+indexof()?
+10. Write a program to find the index value of a substring “loP” in string “HelloPMeC” using
+indexof() if searching starts from index=5?
+11. Write a program to count the no. of words in a string using charAt() and length()?
+12. Write a program to count the number of same word in a string?
+13. Write a program to replace a word in a string with another word using replace()?
