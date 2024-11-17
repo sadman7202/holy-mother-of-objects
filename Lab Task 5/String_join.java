@@ -1,6 +1,7 @@
 public class String_join {
     public static void main(String[] args) {
-
+   Concat c=new Concat();
+   PlusOperator p=new PlusOperator();
     }
 }
 class Concat{ //1no
