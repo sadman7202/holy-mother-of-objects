@@ -1,0 +1,19 @@
+                                           Lab Work
+1. Write a program to create a class “University” with a method to print University name, and
+create a child class “College” of it with method “show()” to print College name? (using obj. of
+the child class, access the methods of parent and child) (Single Inheritance)
+2. Write a program to create a class “University” with a variable University name and create a
+child class “College” with a variable “college name” and a method “show()” to assign names
+and print the names of both University and college? (using obj. of child class, access the
+method of parent) (Single Inheritance)
+3. Write a program to create a class “Addition” with a method to print the sum of numbers
+between 100 to 150 and create a child class “sum” to access the parent class method to print
+the sum? (using obj. of the child class, access the method) (Single Inheritance)
+4. Write a program to create a class “S” with sum(int x, int y) and create a child class of S as
+“M”with multiplication(int a, int b) and again create a child class of M as “SM” to access these
+two methods with a object to print the sum and multiplication? (pass the values as arguments to
+the methods) (Multilevel Inheritance)
+5. Write a program to create a class “viruseffect” with a method “symptoms()” to print the
+symptoms, create a child class “alphavirus” and another child class “betavirus”. From
+betavirus class access the method symptoms() using alphavirus object and betavirus object to
+print the symptoms? (Hierarchical Inheritance)

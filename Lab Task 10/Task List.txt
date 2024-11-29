@@ -1,0 +1,18 @@
+                                                        Lab Work
+1. Write a program to create one interface “Employee” with attributes of an employee like id,
+name, age, and salary also it contains a method salary(). In the child clas implement the interface
+to print all details of the employee by calling salary().
+2. Write a program to handle divide by zero exception using try and catch block.
+3. Write a program to handle Array index out of bound exception if there are 3 elements in an array
+A and we want to print A[5] using try and catch block?
+4. Write a program to show multiple catch blocks with exception classes:
+ArrayIndexOutOfBoundException and Exception (generic class) for handling the exception divide
+by zero case.
+5. Write a program to create a class X with a method Y() to throw one exception
+ArithmeticException with message “Exception is Thrown”, handle it and then call the method to
+show the message in main method.
+6. Write a program to create a class X with a method Z() to create a list of probable exception:
+ArrayIndexOutOfBoundException using throws. Inside Z() throw this exception with message
+“test exception”. Then call the method Z() in try block and handle it (in main method).
+7. Write a program using finally block to print the average of 5 numbers using for loop. Before
+that show an exception in try block (divide by zero) which is not handled using any catch block.

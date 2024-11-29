@@ -1,0 +1,18 @@
+                                                          Lab Work
+1. Sum of Array Elements:
+Write a program to find the sum of all elements in an array.
+2. Average of Array Elements:
+Calculate and print the average of elements in an array.
+3. Largest Element in Array:
+Find and display the largest element in an array.
+4. Smallest Element in Array:
+Write a program to find the smallest element in an array.
+5. Reverse an Array:
+Create a program to reverse the order of elements in an array.
+6. Search Element in Array:
+Implement a program to search for a specific element in an array.
+7. Even and Odd Elements:
+Classify and count even and odd numbers in an array.
+8. Sort an Array:
+Implement a program to sort elements in an array (you can use different sorting
+algorithms).
