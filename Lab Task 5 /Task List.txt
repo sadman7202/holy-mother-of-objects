@@ -1,0 +1,14 @@
+                                                                     Lab Work
+1. Write a java program for Method overloading and Constructor overloading?
+2.Write a program to create a class Student with data ‘name, city and age’
+along with
+method printData to display the data. Create the two objects s1, s2 to declare and
+access the values.
+3.Write a program to create an employee class using parameterized constructor with
+two parameters id and name and along with method displayinfo to display the data.
+While creating the objects obj1 and obj2 passed two arguments so that this
+constructor gets invoked after creation of obj1 and obj2.
+4. Write a program to print the area of a rectangle by creating a class named 'Area'
+taking the values of its length and breadth as parameters of its constructor and having
+a method named ‘returnArea’ which returns the area of the rectangle. Length and
+breadth of rectangle are entered through keyboard.

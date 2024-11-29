@@ -1,0 +1,24 @@
+                                            Lab Work
+Sum of Natural Numbers:
+Write a program to calculate the sum of natural numbers up to a given limit using a
+while loop or for loop.
+Factorial Calculation:
+Create a program to calculate the factorial of a given number using a while loop or
+for loop.
+Prime Number Checker:
+Implement a program to check if a given number is prime or not using control
+statements and loops.
+Fibonacci Series:
+Write a program to generate the Fibonacci series up to a specified number of terms
+using a while loop or for loop.
+Table Generator:
+Develop a program to display the multiplication table of a given number using loops.
+Palindrome Checker:
+Create a program to check if a given number is a palindrome or not using control
+statements and loops.
+Armstrong Number Checker:
+Implement a program to check if a given number is an Armstrong number or not
+using control statements and loops.
+Factorization of Numbers:
+Create a program to find the factors of a given number using loops and control
+statements.
