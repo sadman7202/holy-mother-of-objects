@@ -1,6 +1,6 @@
 package labtask8;
 
-class Defence {
+class Defence { //3no
     public void Purpose() {
         System.out.println("To protect the country.");
     }
