@@ -52,7 +52,7 @@ public class SimpleException {
       e.MultipleException();
       e.Finally();
       X obj=new X();
-      //obj.Y();
+      obj.Y();
       try{
           obj.Z();
       }
