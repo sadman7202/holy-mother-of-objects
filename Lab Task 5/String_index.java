@@ -3,8 +3,7 @@ import java.sql.SQLOutput;
 class String_Index{
     public static void main(String[] args) {
        PerticulerIndex p=new PerticulerIndex();
-       FindIndex f=new FindIndex();
-       FindIndext2 f2=new FindIndext2();
+
        IndexOfSubstring i=new IndexOfSubstring();
        IndexOfSubstring2 i2=new IndexOfSubstring2();
     }
