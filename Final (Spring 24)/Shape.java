@@ -8,8 +8,8 @@ abstract class Shape {
 }
 class Circle extends Shape{
     public static void main(String[] args) {
-        Circle c=new Circle();
-        Rectangle r=new Rectangle();
+        Shape c=new Circle();
+        Shape r=new Rectangle();
         c.CalculateArea();
         r.CalculateArea();
     }
